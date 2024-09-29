@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x358AA13c52544ECCEF6B0ADD0f801012ADAD5eE3",
+  "SCAN_LINK": "https://polygonscan.com/token/0x358AA13c52544ECCEF6B0ADD0f801012ADAD5eE3",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Mario NFT",
+  "SYMBOL": "TMNFT",
+  "MAX_SUPPLY": 99,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-Mario-nft",
+  "SHOW_BACKGROUND": true
+}
